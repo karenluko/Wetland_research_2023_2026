@@ -1,0 +1,39 @@
+                                                          Area Percent Report
+
+  Data Path : C:\MSDCHEM\3\DATA\2024\KAREN APRIL24\
+  Data File : PB I AH.D                                           
+  Acq On    : 30 Apr 2024  13:31
+  Operator  : KAREN
+  Sample    : PB I AH
+  Misc      : EGA
+  ALS Vial  : 1   Sample Multiplier: 1
+
+  Integration Parameters: autoint1.e
+  Integrator: ChemStation
+
+  Method    : C:\MSDCHEM\3\METHODS\EGA_TEST.M
+  Title     :  
+
+  Signal     : TIC: PB I AH.D\data.ms
+
+ peak  R.T. first  max last  PK   peak      corr.   corr.    % of
+   #   min   scan scan scan  TY  height     area    % max.   total
+ ---  ----- ----- ---- ---- ---  -------   -------  ------  -------
+  1  16.478  2518 2865 2866 BV    275849 121493896 100.00%  34.553%
+  2  16.816  2866 2924 2926 VV    300188  52703562  43.38%  14.989%
+  3  17.019  2926 2959 2962 VV    277017  34021264  28.00%   9.676%
+  4  17.193  2962 2990 2997 VV    296123  32647171  26.87%   9.285%
+  5  17.314  2997 3011 3022 VV    284433  22472768  18.50%   6.391%
+ 
+  6  17.472  3022 3038 3043 VV    273145  17292213  14.23%   4.918%
+  7  17.812  3043 3098 3101 VV    195787  39927485  32.86%  11.355%
+  8  17.969  3101 3125 3127 VV    157504  13798960  11.36%   3.924%
+  9  18.126  3127 3153 3158 VV    118102  11219671   9.23%   3.191%
+ 10  18.222  3158 3169 3173 VV     63009   3091121   2.54%   0.879%
+ 
+ 11  18.300  3173 3183 3186 VV     66909   2073703   1.71%   0.590%
+ 12  18.332  3186 3189 3190 VV 8   56835    464858   0.38%   0.132%
+ 13  18.349  3190 3192 3195 VV 8   50097    410893   0.34%   0.117%
+ 
+ 
+                        Sum of corrected areas:   351617567
