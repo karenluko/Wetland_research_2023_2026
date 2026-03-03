@@ -1,0 +1,38 @@
+                                                          Area Percent Report
+
+  Data Path : C:\MSDCHEM\3\DATA\2024\TEST EGA\
+  Data File : PM-1 AH.D                                           
+  Acq On    : 18 Mar 2024  12:55
+  Operator  : KAREN
+  Sample    : PM-1 AH
+  Misc      : EGA 2.7mg
+  ALS Vial  : 1   Sample Multiplier: 1
+
+  Integration Parameters: autoint1.e
+  Integrator: ChemStation
+
+  Method    : C:\MSDCHEM\3\METHODS\EGA_TEST.M
+  Title     :  
+
+  Signal     : TIC: PM-1 AH.D\data.ms
+
+ peak  R.T. first  max last  PK   peak      corr.   corr.    % of
+   #   min   scan scan scan  TY  height     area    % max.   total
+ ---  ----- ----- ---- ---- ---  -------   -------  ------  -------
+  1  14.702  2054 2554 2557 BV      8251 -45216972 -59.25% -38.512%
+  2  15.313  2557 2661 2664 PV     23897   4154526   5.44%   3.538%
+  3  16.444  2664 2859 2861 VV     98751  30762531  40.31%  26.201%
+  4  17.669  2861 3073 3075 VV    134302  76312641 100.00%  64.996%
+  5  17.844  3075 3103 3108 VV    123958  12749584  16.71%  10.859%
+ 
+  6  17.955  3108 3123 3126 VV    117017   6508305   8.53%   5.543%
+  7  18.049  3126 3139 3142 VV    110928   5707629   7.48%   4.861%
+  8  18.137  3142 3154 3158 VV    104209   5367923   7.03%   4.572%
+  9  18.501  3158 3218 3228 VV     70215  16760823  21.96%  14.275%
+ 10  18.582  3228 3232 3244 VV     51432   2188461   2.87%   1.864%
+ 
+ 11  18.659  3244 3246 3248 VV 7   42784    447361   0.59%   0.381%
+ 12  18.781  3248 3267 3271 VV 7   27409   1668067   2.19%   1.421%
+ 
+ 
+                        Sum of corrected areas:   117410879

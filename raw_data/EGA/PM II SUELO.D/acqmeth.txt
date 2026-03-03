@@ -1,0 +1,142 @@
+                                              INSTRUMENT CONTROL PARAMETERS:    CSIC
+                                              --------------------------------------
+
+   C:\MSDCHEM\3\METHODS\EGA_TEST.M
+      Tue Apr 30 14:57:09 2024
+
+Control Information
+------- -----------
+
+Sample Inlet      :  GC
+Injection Source  :  External Device
+Mass Spectrometer :  Enabled
+
+
+ No Sample Prep method has been assigned to this method.
+
+=============================================================================
+                                 6890 GC METHOD
+=============================================================================
+
+OVEN
+   Initial temp:  300 C (On)               Maximum temp:  370 C
+   Initial time:  35.00 min                Equilibration time:  0.50 min
+   Ramps:
+     #   Rate  Final temp  Final time
+     1    0 (Off)
+   Post temp:  0 C
+   Post time:  0.00 min
+   Run time:  35.00 min
+
+FRONT INLET (SPLIT/SPLITLESS)           BACK INLET (UNKNOWN)
+   Mode:  Split
+   Initial temp:  300 C (On)
+   Pressure:  21.5 psi (On)
+   Split ratio:  50:1
+   Split flow:  50.0 mL/min
+   Total flow:  53.7 mL/min
+   Gas saver:  Off
+   Gas type:  Helium
+
+COLUMN 1                                COLUMN 2
+   Capillary Column                        (not installed)
+   Model Number:  19091S-433
+   Description: HP-5MS  5% Phenyl Methyl
+   Max temperature:  325 C
+   Nominal length:  30.0 m
+   Nominal diameter:  250.00 um
+   Nominal film thickness:  0.25 um
+   Mode:  constant flow
+   Initial flow:  1.0 mL/min
+   Nominal init pressure:  21.5 psi
+   Average velocity:  40 cm/sec
+   Inlet:  Front Inlet
+   Outlet:  MSD
+   Outlet pressure:  vacuum
+
+FRONT DETECTOR (NO DET)                 BACK DETECTOR (NO DET)
+
+SIGNAL 1                                SIGNAL 2
+   Save Data:  Off                         Save Data:  Off
+
+THERMAL AUX 2
+   Use:  MSD Transfer Line Heater
+   Initial temp:  300 C (On)
+
+                                        POST RUN
+                                           Post Time: 0.00 min
+
+
+TIME TABLE
+   Time(min)      Parameter & Setpoint
+
+
+
+ Column 1 Inventory Number :  
+ Column 2 Inventory Number :  
+
+                                MS ACQUISITION PARAMETERS
+
+
+General Information
+------- -----------
+
+Tune File                : atune6324.u
+Acquistion Mode          : Scan
+
+
+MS Information
+-- -----------
+
+Solvent Delay            : 0.00 min
+
+EMV Mode                 : Gain Factor
+Gain Factor              : 1.00
+Resulting EM Voltage     : 941
+
+[Scan Parameters]
+
+Low Mass                 : 50.0
+High Mass                : 550.0
+Threshold                : 150
+Sample #                 : 2       A/D Samples    4
+Plot 2 low mass          : 50.0
+Plot 2 high mass         : 550.0
+
+[MSZones]
+
+MS Source                : 230 C   maximum 250 C
+MS Quad                  : 150 C   maximum 200 C
+
+
+                             END OF MS ACQUISITION PARAMETERS
+
+
+                              TUNE PARAMETERS for SN: US62744409
+                        -----------------------------
+
+ Trace Ion Detection is OFF.
+
+ EMISSION    :      34.610
+ ENERGY      :      69.922
+ REPELLER    :      24.427
+ IONFOCUS    :      90.157
+ ENTRANCE_LE :      28.500
+ EMVOLTS     :     800.000
+                               Actual EMV  :    941.176
+                               GAIN FACTOR :       1.05
+ AMUGAIN     :    1729.000
+ AMUOFFSET   :     119.438
+ FILAMENT    :       1.000
+ DCPOLARITY  :       0.000
+ ENTLENSOFFS :      17.569
+ MASSGAIN    :    -684.000   
+ MASSOFFSET  :     -39.000   
+
+                           END OF TUNE PARAMETERS
+                      ------------------------------------
+
+
+
+                                               END OF INSTRUMENT CONTROL PARAMETERS
+                                               ------------------------------------

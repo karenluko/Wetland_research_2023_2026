@@ -1,0 +1,23 @@
+                                                          Area Percent Report
+
+  Data Path : C:\MSDCHEM\3\DATA\2024\TEST EGA\
+  Data File : PM-1.D                                              
+  Acq On    : 18 Mar 2024  11:59
+  Operator  : NICASIO
+  Sample    : PM-1
+  Misc      : EGA 5mg
+  ALS Vial  : 1   Sample Multiplier: 1
+
+  Integration Parameters: autoint1.e
+  Integrator: ChemStation
+
+  Method    : C:\MSDCHEM\3\METHODS\EGA_TEST.M
+  Title     :  
+
+  Signal     : TIC: PM-1.D\data.ms
+
+ peak  R.T. first  max last  PK   peak      corr.   corr.    % of
+   #   min   scan scan scan  TY  height     area    % max.   total
+ ---  ----- ----- ---- ---- ---  -------   -------  ------  -------
+ 
+     No peaks were detected using the method integration parameters!

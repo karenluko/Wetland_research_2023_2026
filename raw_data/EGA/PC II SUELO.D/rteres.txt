@@ -1,0 +1,23 @@
+                                                          Area Percent Report
+
+  Data Path : C:\MSDCHEM\3\DATA\2024\KAREN APRIL24\
+  Data File : PC II SUELO.D                                       
+  Acq On    : 12 Apr 2024  10:16
+  Operator  : KAREN
+  Sample    : PC II SUELO
+  Misc      : EGA
+  ALS Vial  : 1   Sample Multiplier: 1
+
+  Integration Parameters: autoint1.e
+  Integrator: ChemStation
+
+  Method    : C:\MSDCHEM\3\METHODS\EGA_TEST.M
+  Title     :  
+
+  Signal     : TIC: PC II SUELO.D\data.ms
+
+ peak  R.T. first  max last  PK   peak      corr.   corr.    % of
+   #   min   scan scan scan  TY  height     area    % max.   total
+ ---  ----- ----- ---- ---- ---  -------   -------  ------  -------
+ 
+     No peaks were detected using the method integration parameters!
