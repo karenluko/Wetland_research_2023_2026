@@ -1,0 +1,10 @@
+[contents]
+count=1
+Name=,C:\MSDCHEM\3\DATA\2024\KAREN APRIL24\SM II AH.D
+1=,INT TIC: SM II AH.D\data.ms
+[INT TIC: SM II AH.D\data.ms]
+Time=,Thu May 02 17:20:52 2024
+Header=,"Peak","R.T.","First","Max","Last","PK  TY","Height","Area","Pct Max","Pct Total"
+1=,  1, 27.073, 4029,4716,4720,"BV  ",  55627,-13041391,-182.78,331.096
+2=,  2, 27.383, 4720,4770,4774,"VV  ",  32383,  7135167,100.00,-181.148
+3=,  3, 27.482, 4774,4788,4808,"VB 2",  27222,  1967369, 27.57,-49.948

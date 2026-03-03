@@ -1,0 +1,8 @@
+[contents]
+count=1
+Name=,C:\MSDCHEM\3\DATA\2024\TEST EGA\SM I AH.D
+1=,INT TIC: SM I AH.D\data.ms
+[INT TIC: SM I AH.D\data.ms]
+Time=,Tue Mar 19 11:48:42 2024
+Header=,"Peak","R.T.","First","Max","Last","PK  TY","Height","Area","Pct Max","Pct Total"
+1=,  1, 17.754, 2533,3087,3090,"BV  ",  11868, 30038122,100.00,100.000
