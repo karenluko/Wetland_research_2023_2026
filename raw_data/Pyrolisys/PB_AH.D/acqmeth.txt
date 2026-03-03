@@ -1,0 +1,188 @@
+
+
+                               INSTRUMENT CONTROL PARAMETERS:    GC
+                               ------------------------------------
+
+   C:\MSDCHEM\1\METHODS\JAG-HP-5MS UI-10.M
+
+Control Information
+------- -----------
+
+Sample Inlet      :  GC
+Injection Source  :  Manual
+Injection Location:  Rear
+Mass Spectrometer :  Enabled
+
+=============================================================================
+                                6890 GC METHOD
+=============================================================================
+
+
+OVEN
+   Initial temp:  50 'C (On)               Maximum temp:  370 'C
+   Initial time:  0.00 min                 Equilibration time:  0.50 min
+   Ramps:
+      #  Rate  Final temp  Final time
+      1 20.00      100        0.00
+      2 10.00      300       10.00
+      3   0.0(Off)
+   Post temp:  0 'C
+   Post time:  0.00 min
+   Run time:  32.50 min
+
+
+FRONT INLET (SPLIT/SPLITLESS)           BACK INLET (UNKNOWN)
+   Mode:  Split
+   Initial temp:  250 'C (On)
+   Pressure:  6.50 psi (On)
+   Split ratio:  22.3:1
+   Split flow:  20.1 mL/min
+   Total flow:  23.5 mL/min
+   Gas saver:  Off
+   Gas type:  Helium
+
+
+COLUMN 1                                COLUMN 2
+   Capillary Column                        (not installed)
+   Model Number:  Agilent 19091S-433
+   HP-5MS  5% Phenyl Methyl Siloxane
+   Max temperature:  325 'C
+   Nominal length:  30.0 m
+   Nominal diameter:  250.00 um
+   Nominal film thickness:  0.25 um
+   Mode:  constant flow
+   Initial flow:  0.9 mL/min
+   Nominal init pressure:  6.50 psi
+   Average velocity:  35 cm/sec
+   Inlet:  Front Inlet
+   Outlet:  MSD
+   Outlet pressure:  vacuum
+
+
+FRONT DETECTOR (NO DET)                 BACK DETECTOR (NO DET)
+
+
+SIGNAL 1                                SIGNAL 2
+   Data rate:  20 Hz                       Data rate:  20 Hz
+   Type:  test plot                        Type:  test plot
+   Save Data:  Off                         Save Data:  Off
+   Zero:  0.0 (On)                         Zero:  0.0 (Off)
+   Range:  0                               Range:  0
+   Fast Peaks:  Off                        Fast Peaks:  Off
+   Attenuation:  0                         Attenuation:  0
+
+
+COLUMN COMP 1                           COLUMN COMP 2
+   (No Detectors Installed)                (No Detectors Installed)
+
+
+THERMAL AUX 2
+   Use:  MSD Transfer Line Heater
+   Description:
+   Initial temp:  280 'C (On)
+   Initial time:  0.00 min
+      #  Rate  Final temp  Final time
+      1   0.0(Off)
+
+
+                                        POST RUN
+                                           Post Time: 0.00 min
+
+
+TIME TABLE
+   Time       Specifier                     Parameter & Setpoint
+
+
+
+
+                               GC Injector
+
+
+     Front Injector:
+          Injector not configured, use these parameters if it becomes configured
+        Sample Washes                 0
+        Sample Pumps                  6
+        Injection Volume           1.00 microliters
+        Syringe Size               10.0 microliters
+        PostInj Solvent A Washes      0
+        PostInj Solvent B Washes      0
+        Viscosity Delay               0 seconds
+        Plunger Speed              Fast
+
+     Back Injector:
+          Injector not configured, use these parameters if it becomes configured
+        Sample Washes                 0
+        Sample Pumps                  6
+        Injection Volume           1.00 microliters
+        Syringe Size               10.0 microliters
+        PostInj Solvent A Washes      0
+        PostInj Solvent B Washes      0
+        Viscosity Delay               0 seconds
+        Plunger Speed              Fast
+
+ Column 1 Inventory Number : HP-5MS UI
+ Column 2 Inventory Number : db 1701
+
+                                MS ACQUISITION PARAMETERS
+
+
+General Information
+------- -----------
+
+Tune File                : atune08-01-24.U
+Acquistion Mode          : Scan
+
+
+MS Information
+-- -----------
+
+Solvent Delay            : 0.00 min
+
+EM Absolute              : False
+EM Offset                : 59
+Resulting EM Voltage     : 1800.0
+
+[Scan Parameters]
+
+Low Mass                 : 50.0
+High Mass                : 550.0
+Threshold                : 150
+Sample #                 : 2       A/D Samples    4
+Plot 2 low mass          : 50.0
+Plot 2 high mass         : 550.0
+
+[MSZones]
+
+MS Quad                  : 150 C   maximum 200 C
+MS Source                : 230 C   maximum 250 C
+
+
+                             END OF MS ACQUISITION PARAMETERS
+
+
+                              TUNE PARAMETERS for SN: CN10338007
+                        -----------------------------
+
+ EMISSION    :      34.610
+ ENERGY      :      69.922
+ REPELLER    :      24.594
+ IONFOCUS    :      84.463
+ ENTRANCE_LE :      19.000
+ EMVOLTS     :    1741.176
+ AMUGAIN     :    2154.000
+ AMUOFFSET   :     129.000
+ FILAMENT    :       2.000
+ DCPOLARITY  :       0.000
+ ENTLENSOFFS :      17.820
+ MASSGAIN    :     154.000   
+ MASSOFFSET  :     -10.000   
+
+
+                           END OF TUNE PARAMETERS
+                      ------------------------------------
+
+
+
+                               END OF INSTRUMENT CONTROL PARAMETERS
+                               ------------------------------------
+
